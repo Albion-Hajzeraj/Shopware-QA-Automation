@@ -1,0 +1,32 @@
+Products tested:
+- Demo Produkt
+
+Pages visited:
+- Home
+- Search
+- Product page
+- Cart
+- Checkout
+- Login/Register
+- Wishlist
+- Contact
+- Orders/Account
+
+Checkout flow notes:
+- Email required
+- First Name required
+- Last Name required
+- Address required
+- Payment selection during checkout
+
+Potential bugs:
+1. Language switches to German after cart updates/search refresh
+2. Login/Register wording is confusing ("Register" where Login expected)
+3. "Prices include VAT" section opens content containing Lorem Ipsum placeholder text
+
+Weird behavior:
+- Add to cart takes 3–4 seconds
+- Quantity updates also delayed by several seconds
+
+Selectors found:
+(To fill later during automation)
